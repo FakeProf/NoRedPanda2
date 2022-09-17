@@ -141,7 +141,7 @@ body {
         
     }
     .Text5 {
-        border: 3px solid black;
+        border: 0px solid black;
         font-size: 2em;
         text-align: center;
         margin-left: 10%;
@@ -397,7 +397,7 @@ text-shadow: 0 0 15px rgba(255,255,255,.5), 0 0 10px rgba(255,255,255,.5);
     
 }
 .Text5 {
-    border: 3px solid black;
+    border: 0px solid black;
     font-size: 2em;
     text-align: center;
     margin-left: 20%;
@@ -654,7 +654,7 @@ a:hover{
         
     }
     .Text5 {
-        border: 3px solid black;
+        border: 0px solid black;
         font-size: 2em;
         text-align: center;
         margin-left: 20%;
